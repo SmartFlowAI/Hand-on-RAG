@@ -1,4 +1,4 @@
-# RAG-Learning
+# Hand on RAG
 
 ## 什么是RAG？
 
